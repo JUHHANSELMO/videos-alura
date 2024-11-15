@@ -1,0 +1,27 @@
+body{
+    background: black;
+    color: white;
+    margin: 0px;
+
+}
+
+header{
+
+border-bottom: solid 8px rgb(99, 17, 17);
+padding: 20px;
+font-size: 35px;
+color:rgb(99, 17, 17);
+ 
+}
+
+section{
+background: rgb(22, 22, 22);
+padding-bottom: 40px;
+
+}
+
+img{
+height:20px;
+
+
+}
